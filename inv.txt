@@ -1,2 +1,0 @@
-[webservers]
-aarreza3 ansible_host=aarreza3c.mylabserver.com
